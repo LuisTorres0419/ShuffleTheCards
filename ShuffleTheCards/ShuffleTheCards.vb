@@ -2,8 +2,13 @@
 'RCET0265
 'Spring 2020
 'Shuffle The Deck
-'helped by Lane colman
+'helped by Lane coleman
 'https://github.com/LuisTorres0419/ShuffleTheCards.git
+
+Option Strict On
+Option Explicit On
+Option Compare Text
+
 Module ShuffleTheCards
 
     Sub Main()
